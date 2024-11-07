@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flashcard</title>
+    <main>
+
+    </main>
+    <footer>
+        <p>Projeto desenvolvido pela Luma, sem fins lucrativos.</p>
+    </footer>
+    <main>
+        <section id= “container”> 
+    
+    </section>
+    <div class="cartao__conteudo__pergunta">
+        O que é exército
+        </div>
+        <div class="cartao__conteudo__resposta">
+            O exército é a componente terrestre das forças armadas da maioria dos países, em contraste com as suas componentes naval e aérea. O termo exército também pode ser usado para se referir a uma fração de um exército nacional, referindo-se a uma grande unidade militar, que agrupa normalmente vários corpos de exército.
+            </div>
+
+<article class="cartao">
+    <div class="cartao__conteudo">
+            <h3> Como funciona o alistamento</h3> </h3>
+                  <div class="cartao__conteudo__pergunta">
+                    O Alistamento é realizado no período de 1º de janeiro a 30 de junho, do ano em que o jovem completar 18 (anos), para tanto, ele deverá acessar o link https://alistamento.eb.mil.br/alistamento, para ser direcionado para o preenchimento das informações requisitadas.
+                    </div>                        
+                   <div class="cartao__conteudo__resposta">
+                
+                     </div>
+                    </div>
+                        
+     </article>
