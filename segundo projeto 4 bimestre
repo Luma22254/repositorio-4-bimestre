@@ -1,0 +1,45 @@
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flashcard</title>
+    <main>
+
+    </main>
+    <footer>
+        <p>Projeto desenvolvido pela Luma, sem fins lucrativos.</p>
+    </footer>
+    <main>
+        <section id= “container”> 
+    
+    </section>
+    <article class="cartao">
+        <div class="cartao__conteudo">
+
+        </div>
+    </article>
+    <h3> Titanic </h3>
+    <div class="cartao__conteudo__pergunta">
+        Sinopse
+        </div>
+        <div class="cartao__conteudo__resposta">
+            </div>               
+     </article><div class="cartao__conteudo__resposta">
+        Um artista pobre e uma jovem rica se conhecem e se apaixonam na fatídica viagem inaugural do Titanic em 1912. Embora esteja noiva do arrogante herdeiro de uma siderúrgica, a jovem desafia sua família e amigos em busca do verdadeiro amor.
+                </div>
+
+<article class="cartao">
+    <div class="cartao__conteudo">
+            <h3> Creditos </h3>
+                  <div class="cartao__conteudo__pergunta">
+                    Data de lançamento: 16 de janeiro de 1998 (Brasil)
+
+                    Diretor: James Cameron
+
+                    Indicações: Oscar de Melhor Filme, Oscar de Melhor Atriz
+
+                    Produção: James Cameron, Jon Landau
+                    
+                    Roteiro: James Cameron
+
+                    Cinematografia: Russell Carpenter
